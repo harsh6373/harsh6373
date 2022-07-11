@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @harsh6373
 - 👀 I’m interested in ... Android Application Development
-- 🌱 I’m currently learning ... Kotlin 
 - 📫 How to reach me ... harshjani6373@gmail.com
 
 <!---
