@@ -3,6 +3,9 @@
 ## 💫 About Me:
  I'm Harsh Jani, Student at 👨‍💻 Shantilal Shah College of Engineering, Bhavnagar pursuing B.E.  <br> I'm pursuing android app developement as career using Java and Kotlin and working on projects for the same. <br> I am a highly motivated individual with a passion for constant developing skills and growing professionally. <br> Would love to be a Full Stack Developer and see myself as a Product / Program Manager in my later career.  <br><br>
 
+# 📫 Contact Me:
+<br>📫 How to reach me harshjani6373@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/harsh6373?tab=repositories<br>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HarshJani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_jani02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-jani-1b35851b5/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@HarshJani02) 
