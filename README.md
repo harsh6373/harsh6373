@@ -1,7 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Hello World!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ## 💫 About Me:
- I'm Harsh Jani, Student at 👨‍💻 Shantilal Shah College of Engineering, Bhavnagar pursuing B.E.  <br> I'm pursuing android app developement as career using Java and Kotlin and working on projects for the same. <br> I am a highly motivated individual with a passion for constant developing skills and growing professionally. <br> Would love to be a Full Stack Developer and see myself as a Product / Program Manager in my later career.  <br><br>
+ mobile application developer with expertise in Flutter framework and native Android app development using Java and Kotlin. Currently working as an Associate Software Engineer at Wappnet Systems Pvt Ltd. Passionate about creating innovative and user-friendly mobile solutions. Constantly exploring new technologies to enhance app performance and user experience. Let's connect and explore exciting opportunities in the world of mobile app development!   <br><br>
 
 # 📫 Contact Me:
 <br>📫 How to reach me harshjani6373@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/harsh6373?tab=repositories<br>
