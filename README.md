@@ -1,28 +1,23 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Hello World!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ## 💫 About Me:
- mobile application developer with expertise in Flutter framework and native Android app development using Java and Kotlin. Currently working as an Associate Software Engineer at Wappnet Systems Pvt Ltd. Passionate about creating innovative and user-friendly mobile solutions. Constantly exploring new technologies to enhance app performance and user experience. Let's connect and explore exciting opportunities in the world of mobile app development!   <br><br>
+I am a Software Engineer with 2 years of experience in mobile app development and backend development. I specialize in building robust, cross-platform applications using Flutter for mobile, web, and desktop platforms. My backend expertise includes Dart Frog, Go, and Serverpod, allowing me to create efficient and scalable solutions. I am a proactive learner, always exploring new technologies and implementing innovative approaches to enhance performance and user experience. Let's connect and collaborate on exciting projects!  
 
 # 📫 Contact Me:
-<br>📫 How to reach me harshjani6373@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/harsh6373?tab=repositories<br>
-
+📫 How to reach me: **harshjani6373@gmail.com**  
+👨‍💻 All of my projects are available at: [GitHub Repositories](https://github.com/harsh6373?tab=repositories)  
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_jani02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-jani-1b35851b5/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@HarshJani02) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-jani-1b35851b5/) 
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@harshjani02) 
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-profile-id)  
 
 ## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harsh6373&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harsh6373&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh6373&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harsh6373&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=harsh6373&icon=0&color=3)](https://visitcount.itsvg.in)
-
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white) 
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)  
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%230175C2.svg?style=flat&logo=api&logoColor=white)   
