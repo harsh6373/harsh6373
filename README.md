@@ -1,7 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ## 💫 About Me:
-I am a Software Engineer with 2 years of experience in mobile app development and backend development. I specialize in building robust, cross-platform applications using Flutter for mobile, web, and desktop platforms. My backend expertise includes Dart Frog, Go, and Serverpod, allowing me to create efficient and scalable solutions. I am a proactive learner, always exploring new technologies and implementing innovative approaches to enhance performance and user experience. Let's connect and collaborate on exciting projects!  
+I am a Software Engineer specializing in mobile app development and backend solutions. I excel at building robust, cross-platform applications and creating efficient, scalable backend systems. With expertise in a wide range of technologies, I am always exploring new tools and approaches to enhance performance and user experience. Let's connect and collaborate on exciting projects!  
 
 # 📫 Contact Me:
 📫 How to reach me: **harshjani6373@gmail.com**  
